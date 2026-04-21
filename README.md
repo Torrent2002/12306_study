@@ -1,11 +1,6 @@
 ## 什么是 12306？
 
-- 🧐 为什么 12306 铁路购票项目更适合校招：[https://nageoffer.com/12306](https://nageoffer.com/12306/suitable/)
-- 🔥 12306 在线体验地址：[http://12306.magestack.cn](http://12306.magestack.cn/ticketSearch)
-
 12306 铁路购票服务是与大家生活和出行相关的关键系统，包括会员、购票、订单、支付和网关等服务。
-
-12306 项目中包含了缓存、消息队列、分库分表、设计模式等代码，通过这些代码可以全面了解分布式系统的核心知识点。
 
 - **SpringBoot 聚合服务版本**：适合测试和部署，可以直接启动 `aggregation-service` 聚合服务和网关服务。
 
